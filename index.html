@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SquareBlast JS">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Rajat Gour">
+    <title>SquareBlast JS</title>
+    <style>
+        body{
+            display: grid;
+            justify-content: center;
+            align-items: center;
+            margin:0;
+            padding: 0;
+            background-color: black;
+            box-sizing: border-box;
+        }
+        #root{
+            cursor:none;
+        }
+
+        #score-card{
+            height:30px;
+            background-color: red;
+            display:none;
+            width: 50%;
+            margin: auto;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bolder;
+            font-size:15px;
+            text-transform: capitalize;
+            background-color: transparent;
+            border: 1px solid white;
+            color:yellow;
+            padding:3px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <div id="score-card">
+            <h4 id="level">level</h4>
+            <h4 id="numBall">balls</h4>
+            <h4 id="score">score</h4>
+        </div>
+    </div>
+    <script src="./index.js"  type="module"></script>
+</body>
+</html>
