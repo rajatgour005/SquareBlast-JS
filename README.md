@@ -14,3 +14,8 @@ The objective is simple: strategically adjust the angle of your cannon to aim pr
   <li>HTML5 CANVAS</li>
   <li>JAVASCRIPT</li>
 </ul>
+<h2>How to Play</h2>
+<ul>
+  <li>Move your Mouse: To aim the ball, gently move your mouse in the desired direction. The on-screen cursor will follow your mouse movement</li>
+  <li>Left-click/Right-click to Shoot: Once you've aimed at your target, press the left/right mouse button to shoot the ball. Aiming accurately before shooting increases your chances of success.</li>
+</ul>
