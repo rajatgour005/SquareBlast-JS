@@ -5,3 +5,5 @@ The objective is simple: strategically adjust the angle of your cannon to aim pr
 <p>
   With its addictive gameplay and endless levels of block-blasting action, "Squreblast-js" is sure to keep players entertained for hours on end. So grab your cannon, adjust your angle, and get ready to blast your way to victory in this explosive arcade adventure!
 </p>
+<h2>demo link</h2>
+<a href="https://rajatgoursqureblast.netlify.app/">https://rajatgoursqureblast.netlify.app/</a>
