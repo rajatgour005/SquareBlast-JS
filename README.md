@@ -14,8 +14,16 @@ The objective is simple: strategically adjust the angle of your cannon to aim pr
   <li>HTML5 CANVAS</li>
   <li>JAVASCRIPT</li>
 </ul>
+<h2>Development</h2>
+<p>I devloped a 2D platformer game using JavaScript with a focus on Object-Oriented Programming (OOP) principles to create modular, reusable, and organized code</p>
 <h2>How to Play</h2>
 <ul>
   <li>Move your Mouse: To aim the ball, gently move your mouse in the desired direction. The on-screen cursor will follow your mouse movement</li>
   <li>Left-click/Right-click to Shoot: Once you've aimed at your target, press the left/right mouse button to shoot the ball. Aiming accurately before shooting increases your chances of success.</li>
+</ul>
+<h2>Features</h2>
+<ul>
+  <li>Single player game</li>
+  <li>The game will utilize the local storage functionality of the player's browser to remember the level at which they last played. This feature enhances the player experience by allowing them to resume gameplay from where they left off without losing progress.</li>
+  <li>Endless level</li>
 </ul>
